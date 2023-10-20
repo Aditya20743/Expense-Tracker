@@ -1,5 +1,5 @@
 # Expense Tracker
-- Live Link - expense-tracker-five-eta.vercel.app
+- Live Link - [expense-tracker-five-eta.vercel.app](https://expense-tracker-five-eta.vercel.app/)
 - This is a expense tracker system built using simple-react.<br>
 - This is the simple no-backend project built for my learning purpose.<br>
 - One can easily install and use this project
